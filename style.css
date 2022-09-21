@@ -1,0 +1,27 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;    
+}
+table{
+    width: 50%;
+    background-color:gainsboro;
+    border: 3px solid black ;
+    border-spacing: 5px;
+}
+th{
+    background-color: gold;
+    color: black;
+    border: 2px solid black;
+    padding: 5px;
+}
+.dias th{
+    background-color: gray; 
+    color: white   
+}
+td{
+    border: 2px solid black;
+    padding: 5px;
+}
+.html{
+    border: 3px solid red;
+}
